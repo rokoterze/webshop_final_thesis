@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8Az01hioHrOuuv9iZyniDWuGSFitM318GV8Zork//ZY=",
+  "Source": "WebShop.Services.ShoppingCartAPI",
+  "BasePath": "_content/WebShop.Services.ShoppingCartAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

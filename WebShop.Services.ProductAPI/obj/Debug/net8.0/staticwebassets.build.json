@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "cLLL5aKHkQZLGqdheblAHF6apkiswv7q5Z13xjrQhGU=",
+  "Source": "WebShop.Services.ProductAPI",
+  "BasePath": "_content/WebShop.Services.ProductAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "azq7UWSiYnLeDmKbIW86gqgx1Sq2B5YTHowwyyeLSP0=",
+  "Source": "WebShop.Gateway",
+  "BasePath": "_content/WebShop.Gateway",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "H4XTsjGfzTUbOOAFhPP2//4FnaMZ/SluAk4+EiMHhME=",
+  "Source": "WebShop.Services.OrderAPI",
+  "BasePath": "_content/WebShop.Services.OrderAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

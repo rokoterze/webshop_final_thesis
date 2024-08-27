@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\roko_\\OneDrive\\Radna povr\u0161ina\\Webshop\\WebApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88A280BF-AC7E-48B5-973A-55786F9C8FF0}|WebShop.Services.OrderAPI\\WebShop.Services.OrderAPI.csproj|c:\\users\\roko_\\onedrive\\radna povr\u0161ina\\webshop\\webapplication\\webshop.services.orderapi\\controllers\\orderapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88A280BF-AC7E-48B5-973A-55786F9C8FF0}|WebShop.Services.OrderAPI\\WebShop.Services.OrderAPI.csproj|solutionrelative:webshop.services.orderapi\\controllers\\orderapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{265B89A7-DA06-4D4B-8E5D-F977ED1F25CF}|Webshop.Services.ShoppingCartAPI\\WebShop.Services.ShoppingCartAPI.csproj|c:\\users\\roko_\\onedrive\\radna povr\u0161ina\\webshop\\webapplication\\webshop.services.shoppingcartapi\\controllers\\shoppingcartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{265B89A7-DA06-4D4B-8E5D-F977ED1F25CF}|Webshop.Services.ShoppingCartAPI\\WebShop.Services.ShoppingCartAPI.csproj|solutionrelative:webshop.services.shoppingcartapi\\controllers\\shoppingcartapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A31F9FE-80EF-45F0-9E7C-B44AAD130D88}|WebShop.Services.ProductAPI\\WebShop.Services.ProductAPI.csproj|c:\\users\\roko_\\onedrive\\radna povr\u0161ina\\webshop\\webapplication\\webshop.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A31F9FE-80EF-45F0-9E7C-B44AAD130D88}|WebShop.Services.ProductAPI\\WebShop.Services.ProductAPI.csproj|solutionrelative:webshop.services.productapi\\controllers\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 241,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\roko_\\OneDrive\\Radna povr\u0161ina\\Webshop\\WebApplication\\WebShop.Services.OrderAPI\\Controllers\\OrderAPIController.cs",
+              "RelativeDocumentMoniker": "WebShop.Services.OrderAPI\\Controllers\\OrderAPIController.cs",
+              "ToolTip": "C:\\Users\\roko_\\OneDrive\\Radna povr\u0161ina\\Webshop\\WebApplication\\WebShop.Services.OrderAPI\\Controllers\\OrderAPIController.cs",
+              "RelativeToolTip": "WebShop.Services.OrderAPI\\Controllers\\OrderAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAMkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:19:14.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShoppingCartAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\roko_\\OneDrive\\Radna povr\u0161ina\\Webshop\\WebApplication\\Webshop.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "RelativeDocumentMoniker": "Webshop.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "ToolTip": "C:\\Users\\roko_\\OneDrive\\Radna povr\u0161ina\\Webshop\\WebApplication\\Webshop.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "RelativeToolTip": "Webshop.Services.ShoppingCartAPI\\Controllers\\ShoppingCartAPIController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T14:10:45.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\roko_\\OneDrive\\Radna povr\u0161ina\\Webshop\\WebApplication\\WebShop.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "WebShop.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ToolTip": "C:\\Users\\roko_\\OneDrive\\Radna povr\u0161ina\\Webshop\\WebApplication\\WebShop.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "RelativeToolTip": "WebShop.Services.ProductAPI\\Controllers\\ProductAPIController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-22T13:51:48.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

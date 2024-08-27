@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EBai9TWfku5UGPyeWlWEiLTumMCYP28/L7D4TDmylS4=",
+  "Source": "WebShop.Services.AuthAPI",
+  "BasePath": "_content/WebShop.Services.AuthAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
